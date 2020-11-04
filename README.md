@@ -2,19 +2,12 @@
 
 # Extraction de données pour un tableau de bord
 
-J'ai effectué mon stage de fin de DUT STID à la caisse régionale du Crédit Agricole Normandie-Seine, situé à Rouen (76). Ce stage a duré 10 semaines, d'avril à juin 2019. Durant cette période, deux missions m'ont été confiées. Je vais vous présenter la première mission, qui a durée 3 semaines.
+J'ai effectué mon stage de fin de DUT STID à la caisse régionale du Crédit Agricole Normandie-Seine, situé à Rouen (76). 
 
-Ma première mission de mon stage e devais modifier un
-programme perme􀀄ant de générer des données KPI (Key Performance Indicators : Indicateurs
-Clé de Performance). Ces données KPI sont calculées et générées à par􀀂r de données de tables
-SAS traitant des campagnes commerciales qui ont permis au CRM Opéra􀀂onnel de contacter
-les clients.
-Quand le CRM lance une campagne pour contacter un client, il dit qu’il « pousse » le client. La
-ges􀀂on de ces campagnes se nomme de la « ges􀀂on évènemen􀀂elle ». Ces données KPI de
-ges􀀂on évènemen􀀂elle obtenues grâce au programme servent à alimenter un tableau de bord
-mensuel pour que les dirigeants aient une synthèse sur les performances de ces campagnes
-commerciales. Ce tableau de bord a donc été vérifié par mon maitre de stage mais aussi sa
-supérieure hiérarchique, Mme Sabine DELECLUSE.
+Ce stage a duré 10 semaines, d'avril à juin 2019. Durant cette période, deux missions m'ont été confiées. Je vais vous présenter la première mission, qui a duré 3 semaines.
+
+Je devais modifier un programme permettant de générer des données KPI (Indicateurs Clé de Performance). Ces données KPI sont calculées et générées à partir des tables SAS relatives aux campagnes commerciales du Crédit Agricole. Elles servent à alimenter un tableau de bord mensuel pour que les dirigeants aient une synthèse sur les performances de des campagnes commerciales. 
+
 Le CRM Opéra􀀂onnel « pousse » ces campagnes en fonc􀀂on des moments de vie du client
 (comme un anniversaire, un déménagement, un départ en retraite ...) mais aussi en fonc􀀂on de
 ses caractéris􀀂ques (comme son âge, son sexe, sa situa􀀂on familiale, professionnelle ou sociale

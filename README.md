@@ -1,5 +1,7 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
+<img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png" width="50%" and height="50%"/>
+
 # Extraction de données pour un tableau de bord
 
 J'ai effectué mon stage de fin de DUT STID à la caisse régionale du Crédit Agricole Normandie-Seine, situé à Rouen (76). 
@@ -13,6 +15,3 @@ J'ai donc modifié le programme (constitué de codes SAS et de requêtes SQL) af
 
 # Code
 Pour des problèmes évidents de confidentialité, les programmes utilisés dans le cadre du stage ne sont pas joints à cette page.  
-
-<img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png"/>
- 

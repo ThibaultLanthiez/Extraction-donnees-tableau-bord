@@ -1,6 +1,6 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-<img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png" width="50%" and height="50%"/>
+<img src="https://www.femmesetchallenges.fr/wp-content/uploads/2019/08/cans-sans-signature-recadre-300x240.png" width="20%" and height="20%"/>
 
 # Extraction de données pour un tableau de bord
 

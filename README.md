@@ -9,7 +9,7 @@ Ce stage a duré 10 semaines, d'avril à juin 2019. Durant cette période, deux 
 Je devais modifier un programme permettant de générer des données KPI (Indicateurs Clé de Performance). Ces données KPI sont calculées et générées à partir de tables SQL relatives aux campagnes commerciales du Crédit Agricole. Elles servent à alimenter un tableau de bord mensuel pour que les dirigeants aient une synthèse sur les performances de ces campagnes commerciales. On y retrouve par exemple la volumétrie des techniques de contacts utilisées (sms, email, appel, publicité sur le site …) et les différents produits et
 services vendus à la suite de ces contacts. 
 
-J'ai donc modifié le programme (constitué de codes SAS et de requêtes SQL) afin de développer certains filtres sur la segmentation des clients pris en compte dans le tableau de bord. Pour être plus précis, je devais générer des données KPI supplémentaires pour que des filtres puissent être intégrés au tableau de bord. Ces filtres concernent l'âge des clients (jeunes ou séniors) et leur niveau de flux et stock d'argent.
+J'ai donc modifié le programme (constitué de codes SAS et de requêtes SQL) afin qu'il génère des données KPI supplémentaires pour que des filtres puissent être intégrés au tableau de bord. Ces filtres permettent de segmenter les clients pris en compte dans le tableau de bord. Ils concernent l'âge des clients (jeunes ou séniors) ainsi que leur niveau de flux et stock d'argent.
 
 # Code
 Pour des problèmes évidents de confidentialité, les programmes utilisés dans le cadre du stage ne sont pas joints à cette page.  
